@@ -30,7 +30,7 @@
 
 > client>​ __get__  _fileName_
 
-        Use: The file if exists at the server side will be downloaded in the client directory else gives appropriate error.
+    Use: The file if exists at the server side will be downloaded in the client directory else gives appropriate error.
 
 > client> ​ __get__ _file1_  _file2_  _file3_
 
